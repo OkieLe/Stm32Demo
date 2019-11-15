@@ -6,13 +6,13 @@ HeaderFiles#1=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Inc/stm32h
 HeaderFiles#2=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Inc/main.h
 HeaderFolderListSize=1
 HeaderPath#0=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Inc
-HeaderFiles=;
 SourceFileListSize=3
 SourceFiles#0=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Src/stm32h7xx_it.c
 SourceFiles#1=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Src/stm32h7xx_hal_msp.c
 SourceFiles#2=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Src/main.c
 SourceFolderListSize=1
 SourcePath#0=C:/Users/Le/STM32CubeIDE/workspace_1.1.0/LedSwitch/Core/Src
+HeaderFiles=;
 SourceFiles=;
 
 [PreviousLibFiles]
